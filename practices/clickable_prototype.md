@@ -4,7 +4,7 @@ stages:
   - research
 short_description: Clickable Prototypes are interactive demos of a website or software application. These are often used to gather feedback early in the project lifecycle, before the project goes into the final stage of development.
 tags:
-  - clicable prototype
+  - clickable prototype
   - wireframing
   - mvp
   - fail fast
@@ -53,7 +53,7 @@ Based on text above, process of software development which uses prototyping can 
 -   [Increased cost](/problems/increased-cost)
 -   Unsuccessful product
 -   Unhappy clients
--   [Disconnect Between Business and IT](/problems/disconnect-between-business-adnd-it)
+-   [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 -   [Poor code quality](/problems/poor-code-quality)
 
 ## How to Implement the Clickable Prototype
@@ -73,6 +73,6 @@ There is a lot of prototyping tools on the market, such as [Axure](https://www.a
 
 ## Resources for the Clickable Prototype
 
--   KFG Blog: [Why Product Clickable prototype Is Different and What Tools to Use to Make One](https://kfginternational.com/blog/product-clickable-prototype/)
+-   KFG Blog: [Why Product Clickable Prototype Is Different and What Tools to Use to Make One](https://kfginternational.com/blog/product-clickable-prototype/)
 -   Experience UX: [What Is Website Prototype?](https://www.experienceux.co.uk/faqs/what-is-a-website-prototype/)
 -   Pidoco: [Clickable Wireframe](https://pidoco.com/en/help/ux/clickable-wireframe)
